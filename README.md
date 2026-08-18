@@ -1,5 +1,5 @@
 # hi i make dope shit
-my most impressive projects are probably [InfDB](https://github.com/2x74/infdb) and [Infinite](https://github.com/2x74/infinite)
+my most impressive project is [mullvad for void linux](https://github.com/2x74/mullvad-void)
 
 # languages i know:
 c, sourcepawn, php, sql, html, css, python, bash
