@@ -1,4 +1,4 @@
-[!hi]
+> [!hi]
 my most impressive project is [mullvad for void linux](https://github.com/2x74/mullvad-void)
 
 # languages i know:
